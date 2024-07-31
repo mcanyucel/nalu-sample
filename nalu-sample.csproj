@@ -61,6 +61,8 @@
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
 		<PackageReference Include="Nalu.Maui" Version="3.1.1" />
+		<PackageReference Include="Nalu.Maui.Core" Version="3.1.1" />
+		<PackageReference Include="Nalu.Maui.Navigation" Version="3.1.1" />
 	</ItemGroup>
 
 	<ItemGroup>
